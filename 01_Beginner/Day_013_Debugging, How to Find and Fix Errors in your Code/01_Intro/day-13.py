@@ -6,6 +6,7 @@ def my_function():
 
 
 my_function()
+print("--------------------------------------------------")
 
 
 # Reproduce the Bug
@@ -14,6 +15,7 @@ from random import randint
 dice_imgs = ["❶", "❷", "❸", "❹", "❺", "❻"]
 dice_num = randint(0, 5)
 print(dice_imgs[dice_num])
+print("--------------------------------------------------")
 
 
 # Play Computer
@@ -22,12 +24,14 @@ if year > 1980 and year < 1994:
     print("You are a millenial.")
 elif year >= 1994:
     print("You are a Gen Z.")
+print("--------------------------------------------------")
 
 
 # Fix the Errors
 age = int(input("How old are you?"))
 if age > 18:
     print(f"You can drive at age {age}.")
+print("--------------------------------------------------")
 
 
 # Print is Your Friend
@@ -39,6 +43,7 @@ total_words = pages * word_per_page
 print(f"pages = {pages}")
 print(f"word_per_page = {word_per_page}")
 print(total_words)
+print("--------------------------------------------------")
 
 
 # Use a Debugger
