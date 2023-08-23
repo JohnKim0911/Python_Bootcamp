@@ -1,5 +1,4 @@
-# < Constructing Objects and Accessing their Attributes and Methods >
-
+############## Constructing Objects and Accessing their Attributes and Methods ##############
 import another_module
 
 print(another_module.another_variable)
@@ -26,7 +25,7 @@ my_screen.exitonclick()
 print("------------------------------------------------")
 
 
-# < How to Add Python Packages and use PyPi >
+############## How to Add Python Packages and use PyPi ##############
 # File -> Settings -> Project:_________ -> Python Interpreter -> '+'(Install) Button -> (Search) -> Install Package
 
 from prettytable import PrettyTable
