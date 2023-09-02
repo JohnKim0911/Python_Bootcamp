@@ -1,18 +1,18 @@
 # Python Bootcamp
 
-## Introduction
+**100 Days of Code: The Complete Python Pro Bootcamp for 2023**
 
-### 100 Days of Code: The Complete Python Pro Bootcamp for 2023
-
-By "Angela Yu" on Udemy.
+*By "Angela Yu" on Udemy.*
 
 https://www.udemy.com/course/100-days-of-code/
 
-I have learned a lot from her lesson and **wanted to summarize what I have learned.**
+---
 
-> It may not be clear for someone who has not taken her lesson yet.
-> I highly recommend taking her lesson first.
+## Introduction
 
+I have learned a lot from this lesson and **wanted to summarize what I have learned.**
+
+> It may not include proper explanation. I highly recommend taking her lesson instead.
 
 ---
 
