@@ -1,6 +1,24 @@
-# SYLLABUS
+# Python Bootcamp
 
-## BEGINNER PYTHON
+## Introduction
+
+### 100 Days of Code: The Complete Python Pro Bootcamp for 2023
+
+By "Angela Yu" on Udemy.
+
+https://www.udemy.com/course/100-days-of-code/
+
+I have learned a lot from her lesson and **wanted to summarize what I have learned.**
+
+> It may not be clear for someone who has not taken her lesson yet.
+> I highly recommend taking her lesson first.
+
+
+---
+
+## SYLLABUS
+
+### BEGINNER PYTHON
 
 - Variables in Python
 - String Manipulation
@@ -27,7 +45,7 @@
 - Scope and Local/Global Variables
 - Debugging Techniques
 
-## INTERMEDIATE PYTHON
+### INTERMEDIATE PYTHON
 - Local Development Environment Setup
 - PyCharm Tips and Tricks
 - Python Object Oriented Programming
@@ -61,7 +79,7 @@
 - Working with date and time
 - Hosting Python Code Online with PythonAnywhere
 
-## INTERMEDIATE +
+### INTERMEDIATE +
 
 - APIs
 - Making HTTP Requests with the Requests module
@@ -80,7 +98,7 @@
 - Templating with Jinja 2
 - WTForms
 
-## ADVANCED PYTHON
+### ADVANCED PYTHON
 
 - Build Your Own REST API with Python
 - Build Your Own Blog
@@ -111,7 +129,7 @@
 - Log Transformations
 - Residuals Analysis
 
-## PROFESSIONAL PORTFOLIO BUILDING INDEPENDENT ASSIGNMENTS
+### PROFESSIONAL PORTFOLIO BUILDING INDEPENDENT ASSIGNMENTS
 
 - Text to Morse Code Converter
 - Portfolio Website
