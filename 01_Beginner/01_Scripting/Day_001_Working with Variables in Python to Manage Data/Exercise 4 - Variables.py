@@ -16,3 +16,10 @@ b = temp
 # 🚨 Don't change the code below 👇
 print("a: " + a)
 print("b: " + b)
+
+
+# ------------------------- Result ------------------------ #
+# a: 10
+# b: 5
+# a: 5
+# b: 10

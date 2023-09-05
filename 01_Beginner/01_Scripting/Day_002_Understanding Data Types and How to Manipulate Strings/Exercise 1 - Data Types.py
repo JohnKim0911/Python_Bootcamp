@@ -9,3 +9,9 @@ first_digit = two_digit_number[0]
 second_digit = two_digit_number[1]
 result = int(first_digit) + int(second_digit)
 print(result)
+
+
+# -------------------- Result ------------------- #
+# Type a two digit number: 25
+# 7
+
