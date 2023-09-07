@@ -1,9 +1,6 @@
-# 🚨 Don't change the code below 👇
 height = float(input("enter your height in m: "))
 weight = float(input("enter your weight in kg: "))
-# 🚨 Don't change the code above 👆
 
-# Write your code below this line 👇
 bmi = round(weight / height ** 2)
 
 if bmi < 18.5:
@@ -16,3 +13,9 @@ elif bmi < 35:
     print(f"Your BMI is {bmi}, you are obese.")
 else:
     print(f"Your BMI is {bmi}, you are clinically obese.")
+
+
+# ------------------------------ Result ------------------------- #
+# enter your height in m: 1.72
+# enter your weight in kg: 68
+# Your BMI is 23, you have a normal weight.

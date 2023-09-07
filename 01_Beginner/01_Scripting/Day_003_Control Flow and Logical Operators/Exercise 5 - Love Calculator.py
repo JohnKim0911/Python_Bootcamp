@@ -1,10 +1,6 @@
-# 🚨 Don't change the code below 👇
 print("Welcome to the Love Calculator!")
 name1 = input("What is your name? \n")
 name2 = input("What is their name? \n")
-# 🚨 Don't change the code above 👆
-
-# Write your code below this line 👇
 
 name_combined = name1 + name2
 name_lower = name_combined.lower()
@@ -30,3 +26,12 @@ elif point >= 40 and point <= 50:
     print(f"Your score is {point}, you are alright together.")
 else:
     print(f"Your score is {point}.")
+
+
+# ------------------------------------ Result --------------------------------- #
+# Welcome to the Love Calculator!
+# What is your name?
+# Brad Pitt
+# What is their name?
+# Jennifer Aniston
+# Your score is 73.
