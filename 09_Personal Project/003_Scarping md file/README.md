@@ -1,0 +1,1 @@
+Scarping all the text with '###'.
