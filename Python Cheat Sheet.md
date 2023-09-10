@@ -2,14 +2,14 @@
 
 ## CONTENTS
 
-### [BASICS](#-basics)
+### [[BASICS]](#-basics)
 - Print
 - Input
 - Comments
 - Variables
 - The += Operator
 
-### [DATA TYPES](#-data-types)
+### [[DATA TYPES]](#-data-types)
 
 - Integers
 - Floating Point Numbers
@@ -20,19 +20,19 @@
 - Converting Data Types
 - Checking Data Types
 
-### [MATHS](#-maths)
+### [[MATHS]](#-maths)
 
 - Arithmetic Operators
 - The += Operator
 - The Modulo Operator
 
-### [ERRORS](#-errors)
+### [[ERRORS]](#-errors)
 
 - Syntax Error
 - Name Error
 - Zero Division Error
 
-### [FUNCTIONS](#-functions)
+### [[FUNCTIONS]](#-functions)
 
 - Creating Functions
 - Calling Functions
@@ -41,7 +41,7 @@
 - Variable Scope
 - Keyword Arguments
 
-### [CONDITIONALS](#-conditionals)
+### [[CONDITIONALS]](#-conditionals)
 - If
 - Else
 - Elif
@@ -50,7 +50,7 @@
 - not
 - comparison operators
 
-### [LOOPS](#-loops)
+### [[LOOPS]](#-loops)
 
 - For Loop
 - _ in a For Loop
@@ -58,28 +58,28 @@
 - continue
 - Infinite Loops
 
-### [LIST METHODS](#-list-methods)
+### [[LIST METHODS]](#-list-methods)
 
 - Adding Lists Together
 - Adding an Item to a List
 - List Index
 - List Slicing
 
-### [BUILT-IN FUNCTIONS](#-built-in-functions)
+### [[BUILT-IN FUNCTIONS]](#-built-in-functions)
 
 - Range
 - Randomisation
 - Round
 - abs
 
-### [MODULES](#-modules)
+### [[MODULES]](#-modules)
 
 - Importing
 - Aliasing
 - Importing from modules
 - Importing Everything
 
-### [CLASSES & OBJECTS](#-classes--objects)
+### [[CLASSES & OBJECTS]](#-classes--objects)
 
 - Creating a Python Class
 - Creating an Object from a Class
