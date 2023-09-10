@@ -7,15 +7,7 @@ weather_c = {
     "Saturday": 22,
     "Sunday": 24,
 }
-# 🚨 Don't change code above 👆
 
-
-# Write your code 👇 below:
 weather_f = {day: (temp_c * 9/5) + 32 for (day, temp_c) in weather_c.items()}
-
-
 print(weather_f)
-
-
-# -------------------------- Result ----------------------
 # {'Monday': 53.6, 'Tuesday': 57.2, 'Wednesday': 59.0, 'Thursday': 57.2, 'Friday': 69.8, 'Saturday': 71.6, 'Sunday': 75.2}

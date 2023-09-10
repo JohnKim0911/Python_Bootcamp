@@ -1,33 +1,35 @@
 # *args: Positional Variable-Length Arguments
 def add(*args):
-    print(args[1])
-    print("---------")
-
+    print(args[1])  # 5
     sum = 0
     for n in args:
         sum += n
     return sum
 
 
-print(add(3, 5, 6, 2, 1, 7, 4, 3))
-print("------------------------------------------------------------------")
+print(add(3, 5, 6, 2, 1, 7, 4, 3))  # 31
 
 
 # **kwargs: Keyworded Variable-Length Arguments
 def calculate(n, **kwargs):
     print(kwargs)
-    print("---------")
+
     for key, value in kwargs.items():
         print(key)
         print(value)
-        print("---------")
+
     n += kwargs["add"]
     n *= kwargs["multiply"]
     print(n)
 
 
 calculate(2, add=3, multiply=5)
-print("------------------------------------------------------------------")
+# {'add': 3, 'multiply': 5}
+# add
+# 3
+# multiply
+# 5
+# 25
 
 
 # How to use a **kwargs dictionary safely
@@ -41,4 +43,4 @@ class Car:
 
 
 my_car = Car(make="Nissan", model="Skyline")
-print(my_car.model)
+print(my_car.model)  # Skyline
