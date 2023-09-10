@@ -91,7 +91,7 @@
 
 ---
 
-## ✅ ️BASICS
+## ✅ BASICS
 
 ### Print
 
