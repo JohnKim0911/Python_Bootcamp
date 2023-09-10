@@ -1,5 +1,0 @@
-# Get emoji from Emojipedia
-https://emojipedia.org/
-
-# Window
-Windows logo key  + . (period).
