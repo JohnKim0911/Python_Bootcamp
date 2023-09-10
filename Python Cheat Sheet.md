@@ -1,16 +1,15 @@
 # PYTHON CHEAT SHEET
 
-## INDEX
+## CONTENTS
 
-[BASICS](##BASICS)
-
+### [BASICS](#-basics)
 - Print
 - Input
 - Comments
 - Variables
 - The += Operator
 
-### DATA TYPES
+### [DATA TYPES](#-data-types)
 
 - Integers
 - Floating Point Numbers
@@ -21,19 +20,19 @@
 - Converting Data Types
 - Checking Data Types
 
-### MATHS
+### [MATHS](#-maths)
 
 - Arithmetic Operators
 - The += Operator
 - The Modulo Operator
 
-### ERRORS
+### [ERRORS](#-errors)
 
 - Syntax Error
 - Name Error
 - Zero Division Error
 
-### FUNCTIONS
+### [FUNCTIONS](#-functions)
 
 - Creating Functions
 - Calling Functions
@@ -42,7 +41,7 @@
 - Variable Scope
 - Keyword Arguments
 
-### CONDITIONALS
+### [CONDITIONALS](#-conditionals)
 - If
 - Else
 - Elif
@@ -51,7 +50,7 @@
 - not
 - comparison operators
 
-### LOOPS
+### [LOOPS](#-loops)
 
 - For Loop
 - _ in a For Loop
@@ -59,26 +58,28 @@
 - continue
 - Infinite Loops
 
-### LIST METHODS
+### [LIST METHODS](#-list-methods)
 
 - Adding Lists Together
 - Adding an Item to a List
 - List Index
 - List Slicing
 
-### BUILT-IN FUNCTIONS
+### [BUILT-IN FUNCTIONS](#-built-in-functions)
+
 - Range
 - Randomisation
 - Round
 - abs
 
-### MODULES
+### [MODULES](#-modules)
+
 - Importing
 - Aliasing
 - Importing from modules
 - Importing Everything
 
-### CLASSES & OBJECTS
+### [CLASSES & OBJECTS](#-classes--objects)
 
 - Creating a Python Class
 - Creating an Object from a Class
@@ -90,7 +91,7 @@
 
 ---
 
-## BASICS
+## ✅ ️BASICS
 
 ### Print
 
@@ -131,7 +132,7 @@ This is a convenient way of saying: <br>
 
 ---
 
-## DATA TYPES
+## ✅ DATA TYPES
 
 ### Integers
 
@@ -203,7 +204,7 @@ You can use the type() function to check what is the data type of particular var
 
 ---
 
-## MATHS
+## ✅ MATHS
 
 ### Arithmetic Operators
 
@@ -239,7 +240,7 @@ e.g. figuring out if a number is odd or even.
 
 ---
 
-## ERRORS
+## ✅ ERRORS
 
 ### Syntax Error
 
@@ -274,7 +275,7 @@ This is something that is mathematically impossible so Python will also complain
 
 ---
 
-## FUNCTIONS
+## ✅ FUNCTIONS
 
 ### Creating Functions
 
@@ -350,7 +351,7 @@ Using a keyword argument means that you don't have to follow any order when prov
 
 ---
 
-## CONDITIONALS
+## ✅ CONDITIONALS
 
 ### If
 
@@ -423,7 +424,7 @@ These mathematical comparison operators allow you to refine your conditional che
 
 ---
 
-## LOOPS
+## ✅ LOOPS
 
     n = 1
     while n < 100:
@@ -490,7 +491,7 @@ This is more common with while loops.
 
 ---
 
-## LIST METHODS
+## ✅ LIST METHODS
 
 ### Adding Lists Together
 
@@ -537,7 +538,7 @@ Start is included, but end is not.
 
 ---
 
-## BUILT-IN FUNCTIONS
+## ✅ BUILT-IN FUNCTIONS
 
 ### Range
 
@@ -584,7 +585,7 @@ Basically removing any -ve signs.
 
 ---
 
-## MODULES
+## ✅ MODULES
 
 ### Importing
 
@@ -630,7 +631,7 @@ Beware, this usually reduces code readability.
 
 ---
 
-## CLASSES & OBJECTS
+## ✅ CLASSES & OBJECTS
 
 ### Creating a Python Class
 
