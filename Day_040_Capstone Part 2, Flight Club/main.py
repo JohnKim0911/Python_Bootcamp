@@ -1,3 +1,6 @@
+# Project Inspiration, Jacks Flight Club
+# https://jacksflightclub.com/
+
 from datetime import datetime, timedelta
 from data_manager import DataManager
 from flight_search import FlightSearch

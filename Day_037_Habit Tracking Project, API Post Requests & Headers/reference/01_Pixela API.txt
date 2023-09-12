@@ -1,6 +1,0 @@
-# Pixela Website
-https://pixe.la/
-
-# Pixela API Documentation
-https://docs.pixe.la/
-

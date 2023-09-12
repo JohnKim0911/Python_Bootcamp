@@ -1,6 +1,6 @@
 # Userful Website
 
-## Decoration
+## Markdown
 
 - 👍 [Markdown Guide](https://www.markdownguide.org/basic-syntax)
 
@@ -18,10 +18,6 @@
 
 - 👍 [Emojipedia](https://emojipedia.org/)
 - Window Emoji: 'Windows logo'  + '.'
-
-### Color
-
-- [Color Hunt](https://colorhunt.co/)
 
 ---
 
@@ -59,7 +55,42 @@
 - [HTTP Status Codes](https://www.webfx.com/web-development/glossary/http-status-codes/)
 - [Other APIs to Explore](https://apilist.fun/)
 
+### Beautiful Soup
+
+- [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+
+### Selenium
+
+- [Selenium Documentation](https://selenium-python.readthedocs.io/)
+
 ---
+
+## Web
+
+### Download
+
+- [Pesticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi)
+
+### Colours
+
+- [Named Colours](https://developer.mozilla.org/en-US/docs/Web/CSS/named-color)
+- [RGB Colour Mixer](https://www.csfieldguide.org.nz/en/interactives/rgb-mixer/)
+- [Color Hunt](https://colorhunt.co/)
+
+### Flask
+
+- [Flask Package on PyPi](https://pypi.org/project/Flask/)
+- [Flask Quick Start Documentation](https://flask.palletsprojects.com/en/2.3.x/quickstart/)
+
+---
+
+## Terminal
+
+- [Windows Command Prompt Cheat Sheet](http://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command%20Prompt%20Cheatsheet.pdf)
+- [Mac/Linux Terminal Cheat Sheet](https://github.com/appbrewery/terminal-mac-cheatsheet)
+
+---
+
 
 ## Others
 
