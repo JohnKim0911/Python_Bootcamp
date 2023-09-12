@@ -16,9 +16,4 @@ for post in facebook_posts:
         # total_likes += 0
         pass
 
-print(total_likes)
-
-
-
-# ------------------ Result -----------------
-# 86
+print(total_likes)  # 86

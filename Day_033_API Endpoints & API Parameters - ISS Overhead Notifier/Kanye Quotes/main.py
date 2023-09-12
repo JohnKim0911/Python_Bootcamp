@@ -1,3 +1,5 @@
+# Kanye Quotes API: https://kanye.rest/
+
 from tkinter import *
 import requests
 

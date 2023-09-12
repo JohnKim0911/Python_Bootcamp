@@ -1,4 +1,0 @@
-https://www.pythonanywhere.com/
-
-# How to Get Twilio to Work on PythonAnywhere Free Accounts
-https://help.pythonanywhere.com/pages/TwilioBehindTheProxy/

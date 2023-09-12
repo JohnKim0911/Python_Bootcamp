@@ -1,5 +1,0 @@
-# Signup for Twilio
-https://www.twilio.com/try-twilio
-
-# Twilio SMS Quickstart Documentation for Python
-https://www.twilio.com/docs/sms/quickstart/python

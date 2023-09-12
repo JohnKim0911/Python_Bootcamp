@@ -12,9 +12,4 @@ def make_pie(index):
         print(fruit + " pie")
 
 
-make_pie(4)
-
-
-
-# ------------------- Result ------------------------
-# Fruit pie
+make_pie(4)  # Fruit pie
