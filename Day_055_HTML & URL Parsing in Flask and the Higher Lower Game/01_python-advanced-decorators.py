@@ -1,6 +1,4 @@
-## ********Day 55 Start**********
-
-## Advanced Python Decorator Functions
+# Advanced Python Decorator Functions
 
 class User:
     def __init__(self, name):
@@ -22,8 +20,4 @@ def create_blog_post(user):
 
 new_user = User("angela")
 new_user.is_logged_in = True
-create_blog_post(new_user)
-
-
-# -------------------- Result -------------------- #
-# This is angela's new blog post.
+create_blog_post(new_user)  # This is angela's new blog post.

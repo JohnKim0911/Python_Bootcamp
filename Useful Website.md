@@ -7,8 +7,8 @@
 ### Image
 
 - 👍 [Free Image](https://unsplash.com/)
+- 👍 [GIF Image](https://giphy.com/)
 - 👍 [Convert Video to GIF image](https://ezgif.com/video-to-gif)
-
 ### ASCII
 
 - [ASCII ART](https://ascii.co.uk/art)
@@ -76,11 +76,29 @@
 - [Named Colours](https://developer.mozilla.org/en-US/docs/Web/CSS/named-color)
 - [RGB Colour Mixer](https://www.csfieldguide.org.nz/en/interactives/rgb-mixer/)
 - [Color Hunt](https://colorhunt.co/)
+- [Adobe Color Wheel](https://color.adobe.com/create/color-wheel)
 
 ### Flask
 
 - [Flask Package on PyPi](https://pypi.org/project/Flask/)
 - [Flask Quick Start Documentation](https://flask.palletsprojects.com/en/2.3.x/quickstart/)
+- [Flask Docs: Routing](https://flask.palletsprojects.com/en/1.1.x/quickstart/#routing)
+- [Flask Docs: Variable Rules](https://flask.palletsprojects.com/en/1.1.x/quickstart/#variable-rules)
+- [Flask Docs: Rendering Templates](https://flask.palletsprojects.com/en/1.1.x/quickstart/#rendering-templates)
+
+### Jinja
+
+- [Jinja Documentation](https://jinja.palletsprojects.com/en/2.11.x/templates/)
+
+### Website Template
+
+- [HTML5 UP Website Templates](https://html5up.net/)
+
+### Design
+
+- [Design Challenges on Daily UI](https://www.dailyui.co/)
+- [Build a design using canva.com](https://www.canva.com/)
+- [Page inspirations on Collect UI](https://collectui.com/)
 
 ---
 

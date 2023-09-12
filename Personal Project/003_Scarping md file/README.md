@@ -1,4 +1,4 @@
-# Scraping md file
+# Scraping text from '.md' file
 
-To make a 'content' area in that file,<br>
-scarp all the text with '###' from 'Python Cheat Sheet.md'.
+Scarp all the text starting with '###' from 'Python Cheat Sheet.md'<br>
+to make a 'content' area in that file.

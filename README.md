@@ -15,3 +15,11 @@ I have learned a lot from this lesson and **wanted to summarize what I have lear
 > It may not include proper explanation. I highly recommend taking her lesson instead.
 
 ---
+
+## Related Documents
+
+- [Syllabus](./Syllabus.md)
+- [Python Cheat Sheet](./Python Cheat Sheet.md)
+- [Useful Website](./Useful Website.md)
+
+---
