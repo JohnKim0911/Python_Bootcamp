@@ -19,7 +19,7 @@ I have learned a lot from this lesson and **wanted to summarize what I have lear
 ## Related Documents
 
 - [Syllabus](./Syllabus.md)
-- [Python Cheat Sheet](./Python Cheat Sheet.md)
-- [Useful Website](./Useful Website.md)
+- [Python Cheat Sheet](./Python_Cheat_Sheet.md)
+- [Useful Website](./Useful_Website.md)
 
 ---
