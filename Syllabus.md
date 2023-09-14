@@ -2,8 +2,6 @@
 
 ## BEGINNER PYTHON
 
-### Scripting
-
 - Variables in Python
 - String Manipulation
 - Input and Print Functions
@@ -31,8 +29,6 @@
 
 ## INTERMEDIATE PYTHON
 
-### Scripting
-
 - Local Development Environment Setup
 - PyCharm Tips and Tricks
 - Python Object Oriented Programming
@@ -45,9 +41,6 @@
 - Optional, Required and Default Parameters
 - Event Listenters
 - Python Instances and State
-
-### GUI
-
 - Python Turtle
 - Game Development with Python and OOP
 - Python Inheritance
@@ -71,25 +64,17 @@
 
 ## INTERMEDIATE +
 
-### API
-
 - APIs
 - Making HTTP Requests with the Requests module
 - Sending Parameters with the Request
 - APIs with Authentication
 - Sending SMS with Python
-
-### Web Scraping & Automation
-
 - Web Scraping with Beautiful Soup
 - Browser Automation with Selenium Web Driver
 - Automating Tinder
 - Automating Twitter
 - Automating LinkedIn
 - Automating Instagram
-
-### Web Development
-
 - Web Development with Flask
 - Command Line
 - Python Decorators
@@ -98,13 +83,8 @@
 
 ## ADVANCED PYTHON
 
-### Web Development
-
 - Build Your Own REST API with Python
 - Build Your Own Blog
-
-### Data Analysis
-
 - Databases with SQLite
 - Dataframe Inspection
 - Data Cleaning
@@ -134,36 +114,22 @@
 
 ## PROFESSIONAL PORTFOLIO BUILDING INDEPENDENT ASSIGNMENTS
 
-### Scripting
-
 - Text to Morse Code Converter
+- Portfolio Website
 - Tic Tac Toe Game
-
-### GUI
-
 - Image Watermarking App
 - Typing Speed Test
 - Breakout Game
-- Disappearing Text Writing App
-- Convert PDF to Audiobook
-- Space Invaders Game
-
-### Web Scraping & Automation
-
-- Custom Web Scraper
-- Automating the Google Dinosaur Game
-- Custom Automation
-
-### Web Development
-
-- Portfolio Website
 - Cafe and Wifi Website
 - Todo List Website
+- Disappearing Text Writing App
 - Image Color Palette Generator
+- Custom Web Scraper
+- Automating the Google Dinosaur Game
+- Space Invaders Game
 - Custom API Driven Website
 - An Online Shop
-
-### Data Analysis
-
+- Custom Browser Automation
 - Analyse and Visualise the Space Race
 - Analyse Deaths Involving the Police in the US
+- Predict Earnings using Multivariable Regression
