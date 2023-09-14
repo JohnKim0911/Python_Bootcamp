@@ -1,6 +1,3 @@
-# Colorgram Package
-# https://pypi.org/project/colorgram.py/
-
 import colorgram
 
 rgb_colors = []
