@@ -1,4 +1,4 @@
-# Using just file methods
+# ------------------ Using just file methods ------------------ #
 with open("weather_data.csv") as data_file:
     data = data_file.readlines()
     print(data)
@@ -6,11 +6,15 @@ with open("weather_data.csv") as data_file:
 #  'Friday,21,Sunny\n', 'Saturday,22,Sunny\n', 'Sunday,24,Sunny']
 
 
-# Using csv library
+# ------------------ Using csv library ------------------ #
 import csv
 
 with open("weather_data.csv") as data_file:
     data = csv.reader(data_file)
+    # print(data)
+    # ['day,temp,condition\n', 'Monday,12,Sunny\n', 'Tuesday,14,Rain\n', 'Wednesday,15,Rain\n', 'Thursday,14,Cloudy\n',
+    # 'Friday,21,Sunny\n', 'Saturday,22,Sunny\n', 'Sunday,24,Sunny']
+    # <_csv.reader object at 0x00000241B6216800>
     temperatures = []
     for row in data:
         if row[1] != "temp":
@@ -18,7 +22,7 @@ with open("weather_data.csv") as data_file:
     print(temperatures)  # [12, 14, 15, 14, 21, 22, 24]
 
 
-# Using the pandas library
+# ------------------ Using the pandas library ------------------ #
 import pandas
 
 data = pandas.read_csv("weather_data.csv")

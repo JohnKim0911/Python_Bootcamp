@@ -18,5 +18,8 @@ data_dict = {
 
 df = pandas.DataFrame(data_dict)
 df.to_csv("squirrel_count.csv")
-
+# ,Fur Color,Count
+# 0,Gray,2473
+# 1,Cinnamon,392
+# 2,Black,103
 

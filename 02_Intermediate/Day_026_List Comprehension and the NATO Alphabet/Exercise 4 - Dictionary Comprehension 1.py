@@ -1,6 +1,8 @@
 sentence = "What is the Airspeed Velocity of an Unladen Swallow?"
 
 words_list = sentence.split()
+print(words_list)
+# ['What', 'is', 'the', 'Airspeed', 'Velocity', 'of', 'an', 'Unladen', 'Swallow?']
 
 result = {word: len(word) for word in words_list}
 

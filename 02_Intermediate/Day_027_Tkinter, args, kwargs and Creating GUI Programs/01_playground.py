@@ -43,4 +43,6 @@ class Car:
 
 
 my_car = Car(make="Nissan", model="Skyline")
+print(my_car.make)  # Nissan
 print(my_car.model)  # Skyline
+print(my_car.colour)  # None

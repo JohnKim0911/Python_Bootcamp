@@ -13,3 +13,4 @@ def make_pie(index):
 
 
 make_pie(4)  # Fruit pie
+make_pie(1)  # Pear pie
